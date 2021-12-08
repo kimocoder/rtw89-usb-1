@@ -34,3 +34,7 @@ $ sudo insmod rtw89_usb.ko
 On Going.
 It's not the completed one, just some part for reference
 
+
+PS: Excuse me for that currently I am in recovery, 
+    and not able to solve the issues in short time.
+    
