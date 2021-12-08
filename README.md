@@ -5,6 +5,8 @@ Also welcome to upstream to the Linux kernel if you want.
 
 Driver for 802.11ax USB Adapter with chipset:
   RTL8852AU 
+  
+  [Dlink DWA-X1850 AX1800](http://www.dlinktw.com.tw/home/product?id=10120)
 
 This driver is based on Realtek's [rtw89 driver](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/realtek/rtw89) in Linux main trunk.
 Or can refer to this lwfinger's github [rtw89] (https://github.com/lwfinger/rtw89)
@@ -30,4 +32,5 @@ $ sudo insmod rtw89_usb.ko
 ## General Commands
 
 On Going.
+It's not the completed one, just some part for reference
 
